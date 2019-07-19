@@ -86,14 +86,14 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./project/frontend/src/components/App.js":
-/*!************************************************!*\
-  !*** ./project/frontend/src/components/App.js ***!
-  \************************************************/
+/***/ "./project/frontend/src/components/App.jsx":
+/*!*************************************************!*\
+  !*** ./project/frontend/src/components/App.jsx ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (6:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n| import Table from \\\"./Table\\\";\\n| const App = () => (\\n>   <DataProvider endpoint=\\\"api/lead/\\\" \\n|                 render={data => <Table data={data} />} />\\n| );\");\n\n//# sourceURL=webpack:///./project/frontend/src/components/App.js?");
+eval("throw new Error(\"Module parse failed: Unexpected token (9:6)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n|   render(){\\n|     return(\\n>       <div>\\n|         <DataProvider endpoint=\\\"api/lead/\\\" \\n|                 render={data => <Table data={data} />} />\");\n\n//# sourceURL=webpack:///./project/frontend/src/components/App.jsx?");
 
 /***/ }),
 
@@ -105,7 +105,7 @@ eval("throw new Error(\"Module parse failed: Unexpected token (6:2)\\nYou may ne
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/App */ \"./project/frontend/src/components/App.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_components_App__WEBPACK_IMPORTED_MODULE_0__);\n\n\n//# sourceURL=webpack:///./project/frontend/src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_App_jsx__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/App.jsx */ \"./project/frontend/src/components/App.jsx\");\n/* harmony import */ var _components_App_jsx__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_components_App_jsx__WEBPACK_IMPORTED_MODULE_0__);\n\n\n//# sourceURL=webpack:///./project/frontend/src/index.js?");
 
 /***/ })
 
