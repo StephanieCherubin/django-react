@@ -26,6 +26,8 @@
     "webpack-bundle-tracker": "^0.4.3",
     "webpack-cli": "^3.3.10"
   },
-  "dependencies": {},
+  "dependencies": {
+    "serialize-javascript": "^2.1.2"
+  },
   "description": ""
 }
