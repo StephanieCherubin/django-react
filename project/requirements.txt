@@ -44,7 +44,7 @@ prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 psycopg2-binary==2.8.3
 ptyprocess==0.6.0
-py==1.7.0
+py==1.10.0
 Pygments==2.7.4
 PyJWT==1.7.1
 pyquery==1.4.0
