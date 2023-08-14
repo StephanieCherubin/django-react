@@ -64,7 +64,7 @@ social-auth-core==3.2.0
 sqlparse==0.4.4
 terminado==0.8.1
 testpath==0.4.2
-tornado==5.1.1
+tornado==6.3.3
 traitlets==4.3.2
 urllib3==1.26.5
 virtualenv==16.6.0
